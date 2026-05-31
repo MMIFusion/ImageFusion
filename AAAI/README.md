@@ -10,7 +10,7 @@
 |---|---|---|
 | 2026 | 15 | [AAAI/2026.md](./2026.md) |
 
-## 📜 全部论文
+## 📜 全部论文（一行式）
 
 ### AAAI 2026
 
@@ -25,11 +25,11 @@
 | [AAAI-2026-007](./2026.md#aaai-2026-007) | VIF, Language | MdaIF: Robust One-Stop Multi-Degradation-Aware Image Fusion with Language-Drive… | ✅ |
 | [AAAI-2026-008](./2026.md#aaai-2026-008) | VIF | Revisiting Network Inertia: Dynamic Inertia Inhibition Coupled Multidimensional… | ✅ |
 | [AAAI-2026-009](./2026.md#aaai-2026-009) | VIF, Language | ControlFuse: Instruction-guided Multi-Granularity Controllable Image Fusion | ✅ |
-| [AAAI-2026-010](./2026.md#aaai-2026-010) | General | Dream-IF: Dynamic Relative EnhAnceMent for Image Fusion | ✅ |
+| [AAAI-2026-010](./2026.md#aaai-2026-010) | General-Fusion, Restoration | Dream-IF: Dynamic Relative EnhAnceMent for Image Fusion | ✅ |
 | [AAAI-2026-011](./2026.md#aaai-2026-011) | HSI-MSI, Language | CO²IF: Language-Bridging Hyperspectral-Multispectral Image Fusion with Coordina… | ✅ |
 | [AAAI-2026-012](./2026.md#aaai-2026-012) | VIF | Domain Adaptation Guided Infrared and Visible Image Fusion | ✅ |
-| [AAAI-2026-013](./2026.md#aaai-2026-013) | HSI-MSI | PIF-Net: Ill-Posed Prior Guided Multispectral and Hyperspectral Image Fusion vi… | ✅ |
-| [AAAI-2026-014](./2026.md#aaai-2026-014) | MEF, MIF | SigFusion: Unified Signal-Level Self-Supervised Learning Paradigm for Image Fus… | ✅ |
+| [AAAI-2026-013](./2026.md#aaai-2026-013) | HSI-MSI, Restoration | PIF-Net: Ill-Posed Prior Guided Multispectral and Hyperspectral Image Fusion vi… | ✅ |
+| [AAAI-2026-014](./2026.md#aaai-2026-014) | MEF, MIF, MFF, VIF, Unified | SigFusion: Unified Signal-Level Self-Supervised Learning Paradigm for Image Fus… | ✅ |
 | [AAAI-2026-015](./2026.md#aaai-2026-015) | Language | Text-Guided Channel Perturbation and Pre-Trained Knowledge Integration for Unif… | ✅ |
 
 [⬅ 返回总目录](../README.md)
