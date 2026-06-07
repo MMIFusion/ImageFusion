@@ -6,8 +6,8 @@
 >
 > 每篇论文的完整信息只在 `<VENUE>/<YEAR>.md` 中维护，本页只做导航。
 
-![Papers](https://img.shields.io/badge/Papers-45-blue.svg)
-![Venues](https://img.shields.io/badge/Venues-3-orange.svg)
+![Papers](https://img.shields.io/badge/Papers-62-blue.svg)
+![Venues](https://img.shields.io/badge/Venues-4-orange.svg)
 ![Latest](https://img.shields.io/badge/Latest-2026-brightgreen.svg)
 
 ---
@@ -16,6 +16,7 @@
 
 | Venue | 论文数 | 年份 |
 |---|---|---|
+| [CVPR](./CVPR/README.md) | 17 | [2026](./CVPR/2026.md) |
 | [AAAI](./AAAI/README.md) | 15 | [2026](./AAAI/2026.md) |
 | [ICCV](./ICCV/README.md) | 11 | [2025](./ICCV/2025.md) |
 
@@ -32,6 +33,9 @@
 ```
 ImageFusion/
 ├── README.md         ← 本页：顶层导航
+├── CVPR/
+│   ├── README.md     ← CVPR 总览（年份索引 + 一行式列表）
+│   └── 2026.md       ← 论文详情（标题、作者、单位、链接、摘要）
 ├── AAAI/
 │   ├── README.md     ← AAAI 总览（年份索引 + 一行式列表）
 │   └── 2026.md       ← 论文详情（标题、作者、单位、链接、摘要）
